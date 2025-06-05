@@ -5,5 +5,5 @@ listing and comment management,
 Mapbox integration for location search, 
 Cloudinary for image uploads,
 and secure backend logic. 
-Fully deployed using Render.(https://wounderlust-0web.onrender.com)
+Fully deployed using Render.(https://wounderlust-0web.onrender.com) => click on explore to start it.
 
